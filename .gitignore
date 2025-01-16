@@ -1,0 +1,4 @@
+.venv/
+.idea/
+books.db
+__pycache__/backend.cpython-311.pyc
